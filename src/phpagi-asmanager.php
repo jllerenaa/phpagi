@@ -1,7 +1,7 @@
 <?php
  /**
   * phpagi-asmanager.php : PHP Asterisk Manager functions
-  * @see https://github.com/welltime/phpagi
+  * @see https://github.com/jllerenaa/phpagi
   * @filesource http://phpagi.sourceforge.net/
   *
   * $Id: phpagi-asmanager.php,v 1.10 2005/05/25 18:43:48 pinhole Exp $
@@ -16,13 +16,13 @@
   * website.  Drop me an Email if you'd like us to list your program.
   *
   * @package phpAGI
-  * @version 2.0
+  * @version 1.0
   */
 
 
  /**
-  * Written for PHP 4.3.4, should work with older PHP 4.x versions.
-  * Please submit bug reports, patches, etc to https://github.com/welltime/phpagi
+  * Written for PHP 8.1.3, should work with older PHP 8.x versions.
+  * Please submit bug reports, patches, etc to https://github.com/jllerenaa/phpagi
   *
   */
 

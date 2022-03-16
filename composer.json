@@ -9,5 +9,7 @@
             "src/phpagi-asmanager.php"
         ]
     },
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }

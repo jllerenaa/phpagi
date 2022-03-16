@@ -1,6 +1,8 @@
 ----------
 CHANGES
 ----------
+Mar 15, 2022 - Jeromy Llerena
+	* Compatibility for PHP8
 Sep 18, 2010 - Matthew Asham
 	* Add option_delim to AGI to specify application option delimiter
         * Changed constructor method to __construct
